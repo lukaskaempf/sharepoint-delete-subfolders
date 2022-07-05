@@ -1,5 +1,5 @@
 ﻿#Parameters
-$SiteURL = "https://mpwberatungsteam.sharepoint.com/sites/Archiv"
+$SiteURL = "https://example.sharepoint.com/sites/Archiv"
 $FolderSiteRelativeURL = "/Freigegebene Dokumente/Aufträge Archiv/Auftrage_2020_4"
  
 #Connect to the Site
